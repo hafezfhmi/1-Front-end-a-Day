@@ -22,3 +22,9 @@ For the challenge, I will mostly be using:
 - React
 - Next.js
 - CSS/SCSS/Styled Components
+
+## Project List
+
+| Project Name                    |                                        Github repository                                        |                                                        Live Site |
+| ------------------------------- | :---------------------------------------------------------------------------------------------: | ---------------------------------------------------------------: |
+| 01 - NFT Preview Card Component | [Click here](https://github.com/hafezfhmi/1-Front-end-a-Day/tree/01-NFT_preview_card_component) | [Click here](https://01-nft-preview-card-component.netlify.app/) |
