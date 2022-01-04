@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import styles from './CardImg.module.css';
-import cardImg from '../images/image-equilibrium.jpg';
-import viewIcon from '../images/icon-view.svg';
+import cardImg from '../Images/image-equilibrium.jpg';
+import viewIcon from '../Images/icon-view.svg';
 
 const Card_Img = () => {
   return (

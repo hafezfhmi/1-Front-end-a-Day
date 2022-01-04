@@ -1,7 +1,7 @@
 import React from 'react';
-import ethIcon from '../images/icon-ethereum.svg';
-import clockIcon from '../images/icon-clock.svg';
-import creatorIcon from '../images/image-avatar.png';
+import ethIcon from '../Images/icon-ethereum.svg';
+import clockIcon from '../Images/icon-clock.svg';
+import creatorIcon from '../Images/image-avatar.png';
 import styles from './CardDetails.module.css';
 
 const CardDetails = () => {
