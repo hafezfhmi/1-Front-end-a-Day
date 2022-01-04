@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import styles from './CardImg.module.css';
 import cardImg from '../Images/image-equilibrium.jpg';
 import viewIcon from '../Images/icon-view.svg';
