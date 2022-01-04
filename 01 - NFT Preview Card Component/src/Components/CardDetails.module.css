@@ -5,8 +5,12 @@
 .cardTitle {
   font-size: 2.2rem;
   font-weight: 600;
-  color: hsl(178, 100%, 50%);
+  color: hsl(0, 0%, 100%);
   cursor: pointer;
+}
+
+.cardTitle:hover {
+  color: hsl(178, 100%, 50%);
 }
 
 .cardDesc {
@@ -60,6 +64,11 @@
 }
 
 .cardCreator p span {
+  color: hsl(0, 0%, 100%);
+  cursor: pointer;
+}
+
+.cardCreator p span:hover {
   color: hsl(178, 100%, 50%);
   cursor: pointer;
 }
