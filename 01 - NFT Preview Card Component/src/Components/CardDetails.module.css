@@ -1,0 +1,65 @@
+.cardDetails {
+  margin-top: 2.1rem;
+}
+
+.cardTitle {
+  font-size: 2.2rem;
+  font-weight: 600;
+  color: hsl(178, 100%, 50%);
+  cursor: pointer;
+}
+
+.cardDesc {
+  font-size: 1.9rem;
+  font-weight: 300;
+  color: hsl(215, 51%, 70%);
+  margin: 1.8rem 0 2.8rem 0;
+}
+
+.cardDetailsSmall {
+  display: flex;
+  justify-content: space-between;
+
+  font-size: 1.5rem;
+  padding-bottom: 2.5rem;
+  border-bottom: 1px solid hsl(215, 32%, 27%);
+}
+
+.cardDetailsSmall p {
+  display: flex;
+  align-items: center;
+}
+
+.cardDetailsSmall p img {
+  margin-right: 0.6rem;
+}
+
+.cardPrice {
+  color: hsl(178, 100%, 50%);
+}
+
+.cardDay {
+  color: hsl(215, 51%, 70%);
+}
+
+.cardCreator {
+  font-size: 1.6rem;
+  font-weight: 400;
+  margin: 1.5rem 0;
+  color: hsl(215, 51%, 70%);
+
+  display: flex;
+  align-items: center;
+}
+
+.cardCreator img {
+  width: 3.5rem;
+  margin-right: 1.7rem;
+  border: 1px solid hsl(0, 0%, 100%);
+  border-radius: 50%;
+}
+
+.cardCreator p span {
+  color: hsl(178, 100%, 50%);
+  cursor: pointer;
+}

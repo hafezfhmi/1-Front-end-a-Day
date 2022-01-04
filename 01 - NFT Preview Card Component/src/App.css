@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+body {
+  box-sizing: border-box;
+  font-family: 'Outfit', sans-serif;
+  background-color: hsl(217, 54%, 11%);
+}
+
+html {
+  /* If default font-size is 16px = 10px will be setted for the font-size*/
+  font-size: 62.5%;
+}

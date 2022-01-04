@@ -1,0 +1,12 @@
+.card {
+  padding: 2rem;
+  background-color: hsl(216, 50%, 16%);
+  border-radius: 10px;
+  width: 85%;
+  max-width: 345px;
+
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
