@@ -4,9 +4,10 @@
 
 ## How does it work?
 
-Everyday, I will set a time limit for myself to completely code a front-end design made by other designers. The design is retrieved from free resources website either in a form of figma files or .jpeg/.png. The websites are:
+Everyday, I will set a time limit for myself to completely code a front-end design made by other designers OR a typealong of a Youtube video to enforce my development skills. The design is retrieved from free resources website either in a form of figma files or .jpeg/.png. The websites are:
 
 - https://frontendmentor.io/
+- Youtube.com
 - More to come...
 
 ## What I want to achieve
