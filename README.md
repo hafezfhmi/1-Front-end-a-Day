@@ -1,31 +1,42 @@
-# 1 Front-end a Day
+# 02 - Typealong React Admin Panel
 
-1 Front-end a Day is a challenge started by me to improve my coding skills through making 1 front-end project on a daily basis.
+## Table of contents
 
-## How does it work?
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Conclusion](#conclusion)
+  - [Useful resources](#useful-resources)
 
-Everyday, I will set a time limit for myself to completely code a front-end design made by other designers OR a typealong of a Youtube video to enforce my development skills. The design is retrieved from free resources website either in a form of figma files or .jpeg/.png. The websites are:
+## Overview
 
-- https://frontendmentor.io/
-- https://www.youtube.com/
-- More to come...
+### Screenshot
 
-## What I want to achieve
+![screenshot1](./screenshot/Screenshot01.PNG)
+![screenshot2](./screenshot/Screenshot02.PNG)
+![screenshot3](./screenshot/Screenshot03.PNG)
+![screenshot4](./screenshot/Screenshot04.PNG)
 
-- Improve my speed in developing front-end code.
-- Learn a CSS framework (Tailwind).
-- Improve my design thinking by 'repainting' design made by other designers.
+### Links
 
-## Tech stacks
+- Live Site URL: [Click here](https://02-typealong-react-admin-panel-tutorial.netlify.app/users/new)
 
-For the challenge, I will mostly be using:
+## My process
 
-- React
-- Next.js
-- CSS/SCSS/Styled Components
+### Built with
 
-## Project List
+- [React](https://reactjs.org/) - JS library
+- [React Router DOM](https://reactrouter.com/) - React routing library
+- [Material UI](https://mui.com/) - React Component library
 
-| Project Name                    |                                        Github repository                                        |                                                        Live Site |
-| ------------------------------- | :---------------------------------------------------------------------------------------------: | ---------------------------------------------------------------: |
-| 01 - NFT Preview Card Component | [Click here](https://github.com/hafezfhmi/1-Front-end-a-Day/tree/01-NFT_preview_card_component) | [Click here](https://01-nft-preview-card-component.netlify.app/) |
+### Conclusion
+
+- Had a try at Material UI library and it ease up the development process.
+- React Router DOM is quite easy to use and learn.
+- Implemented dark mode using useContext at App component so that all components are able to access the state of dark mode.
+
+### Useful resources
+
+- Source Tutorial: [Click here](https://www.youtube.com/watch?v=yKV1IGahXqA)
