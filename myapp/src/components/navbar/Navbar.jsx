@@ -6,7 +6,7 @@ import FullscreenOutlinedIcon from '@mui/icons-material/FullscreenOutlined';
 import NotificationsNoneOutlinedIcon from '@mui/icons-material/NotificationsNoneOutlined';
 import ChatBubbleOutlineOutlinedIcon from '@mui/icons-material/ChatBubbleOutlineOutlined';
 import ViewListIcon from '@mui/icons-material/ViewList';
-import { useContext, useState } from 'react';
+import { useContext } from 'react';
 import { DarkModeContext } from '../../context/darkModeContext';
 
 const Navbar = () => {
