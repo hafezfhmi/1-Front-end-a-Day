@@ -21,7 +21,7 @@
 
 ### Links
 
-- Live Site URL: [Click here](https://02-typealong-react-admin-panel-tutorial.netlify.app/users/new)
+- Live Site URL: [Click here](https://02-typealong-react-admin-panel-tutorial.netlify.app/
 
 ## My process
 
