@@ -26,6 +26,7 @@ For the challenge, I will mostly be using:
 
 ## Project List
 
-| Project Name                    |                                        Github repository                                        |                                                        Live Site |
-| ------------------------------- | :---------------------------------------------------------------------------------------------: | ---------------------------------------------------------------: |
-| 01 - NFT Preview Card Component | [Click here](https://github.com/hafezfhmi/1-Front-end-a-Day/tree/01-NFT_preview_card_component) | [Click here](https://01-nft-preview-card-component.netlify.app/) |
+| Project Name                     |                                             Github repository                                             |                                                                  Live Site |
+| -------------------------------- | :-------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------: |
+| 01 - NFT Preview Card Component  |      [Click here](https://github.com/hafezfhmi/1-Front-end-a-Day/tree/01-NFT_preview_card_component)      |           [Click here](https://01-nft-preview-card-component.netlify.app/) |
+| 02 - Typealong React Admin Panel | [Click here](https://github.com/hafezfhmi/1-Front-end-a-Day/tree/02-Typealong-React_Admin_Panel_Tutorial) | [Click here](https://02-typealong-react-admin-panel-tutorial.netlify.app/) |
