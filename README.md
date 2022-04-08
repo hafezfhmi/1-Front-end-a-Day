@@ -14,8 +14,8 @@
 
 ### Screenshot
 
-![screenshot1](./screenshot/Screenshot01.PNG)
-![screenshot2](./screenshot/Screenshot02.PNG)
+![screenshot1](./screenshot/Screenshot01.png)
+![screenshot2](./screenshot/Screenshot02.png)
 
 ### Links
 
