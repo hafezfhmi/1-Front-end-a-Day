@@ -1,32 +1,37 @@
-# 1 Front-end a Day
+# 03 - Typealong Manage Landing Page
 
-1 Front-end a Day is a challenge started by me to improve my coding skills through making 1 front-end project on a daily basis.
+## Table of contents
 
-## How does it work?
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Conclusion](#conclusion)
+  - [Useful resources](#useful-resources)
 
-Everyday, I will set a time limit for myself to completely code a front-end design made by other designers OR a typealong of a Youtube video to enforce my development skills. The design is retrieved from free resources website either in a form of figma files or .jpeg/.png. The websites are:
+## Overview
 
-- https://frontendmentor.io/
-- https://www.youtube.com/
-- More to come...
+### Screenshot
 
-## What I want to achieve
+![screenshot1](./screenshot/Screenshot01.PNG)
+![screenshot2](./screenshot/Screenshot02.PNG)
 
-- Improve my speed in developing front-end code.
-- Learn a CSS framework (Tailwind).
-- Improve my design thinking by 'repainting' design made by other designers.
+### Links
 
-## Tech stacks
+- Live Site URL: [Click here](https://03-typealong-manage-landing-page.netlify.app/)
 
-For the challenge, I will mostly be using:
+## My process
 
-- React
-- Next.js
-- CSS/SCSS/Styled Components
+### Built with
 
-## Project List
+- [TailwindCSS](https://tailwindcss.com/) - CSS Framework
 
-| Project Name                     |                                             Github repository                                             |                                                                  Live Site |
-| -------------------------------- | :-------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------: |
-| 01 - NFT Preview Card Component  |      [Click here](https://github.com/hafezfhmi/1-Front-end-a-Day/tree/01-NFT_preview_card_component)      |           [Click here](https://01-nft-preview-card-component.netlify.app/) |
-| 02 - Typealong React Admin Panel | [Click here](https://github.com/hafezfhmi/1-Front-end-a-Day/tree/02-Typealong-React_Admin_Panel_Tutorial) | [Click here](https://02-typealong-react-admin-panel-tutorial.netlify.app/) |
+### Conclusion
+
+- A practice on tailwindcss framework.
+- The framework able to improve the speed of development and uniformize css with the utilities provided.
+
+### Useful resources
+
+- Source Tutorial: [Click here](https://youtu.be/dFgzHOX84xQ)
