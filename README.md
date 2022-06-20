@@ -1,33 +1,47 @@
-# 1 Front-end a Day
+# 04 - Typealong Socket.io + ReactJS Tutorial
 
-1 Front-end a Day is a challenge started by me to improve my coding skills through making 1 front-end project on a daily basis.
+## Table of contents
 
-## How does it work?
+- [Overview](#overview)
+  - [The process](#the-process)
+  - [Screenshot](#screenshot)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Conclusion](#conclusion)
+  - [Useful resources](#useful-resources)
 
-Everyday, I will set a time limit for myself to completely code a front-end design made by other designers OR a typealong of a Youtube video to enforce my development skills. The design is retrieved from free resources website either in a form of figma files or .jpeg/.png. The websites are:
+## Overview
 
-- https://frontendmentor.io/
-- https://www.youtube.com/
-- More to come...
+### Running the app
 
-## What I want to achieve
+1. Clone this repository
+2. Run `npm install` on both client and server folder.
+3. Run `npm start` on both client and server
 
-- Improve my speed in developing front-end code.
-- Learn a CSS framework (Tailwind).
-- Improve my design thinking by 'repainting' design made by other designers.
+### The process
 
-## Tech stacks
+![diagram](./screenshot/Send%20and%20receive%20message.png)
 
-For the challenge, I will mostly be using:
+### Screenshot
 
-- React
-- Next.js
-- CSS/SCSS/Styled Components
+![screenshot1](./screenshot/screenshot-01.PNG)
 
-## Project List
+## My process
 
-| Project Name                       |                                             Github repository                                             |                                                                  Live Site |
-| ---------------------------------- | :-------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------: |
-| 01 - NFT Preview Card Component    |      [Click here](https://github.com/hafezfhmi/1-Front-end-a-Day/tree/01-NFT_preview_card_component)      |           [Click here](https://01-nft-preview-card-component.netlify.app/) |
-| 02 - Typealong React Admin Panel   | [Click here](https://github.com/hafezfhmi/1-Front-end-a-Day/tree/02-Typealong-React_Admin_Panel_Tutorial) | [Click here](https://02-typealong-react-admin-panel-tutorial.netlify.app/) |
-| 03 - Typealong Manage Landing Page |    [Click here](https://github.com/hafezfhmi/1-Front-end-a-Day/tree/03-Typealong-Manage_Landing_Page)     |        [Click here](https://03-typealong-manage-landing-page.netlify.app/) |
+### Built with
+
+- [React](https://reactjs.org/) - JS library
+- [Socket.io](https://socket.io/) - real-time connection
+
+### Conclusion
+
+- It is quite simple to implement a socket.io connection.
+- Many awesome tools/apps can be built with a socket.io connection.
+
+#### Time taken
+
+1+ hours
+
+### Useful resources
+
+- Source Tutorial: [Click here](https://www.youtube.com/watch?v=djMy4QsPWiI&list=WL&index=3&t=828s)
