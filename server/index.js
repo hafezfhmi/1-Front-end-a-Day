@@ -23,10 +23,17 @@ const io = new Server(server, {
 io.on("connection", (socket) => {
   console.log(`User Connected: ${socket.id}`);
 
-  // listen to "send_message action emitted from frontend (lin 10)"
+  // listen to "join_room" action emitted from frontend
+  socket.on("join_room", (data) => {
+    console.log(`${socket.id} joined room:${data}`);
+    // join a specific "room" based on the data passed which is a string for the room (can be any string)
+    socket.join(data);
+  });
+
+  // listen to "send_message" action emitted from frontend
   socket.on("send_message", (data) => {
-    // send the event to everyone
-    socket.broadcast.emit("receive_message", data);
+    // send the event to the room that was passed (room the client joined in this case)
+    socket.to(data.room).emit("receive_message", data);
   });
 });
 

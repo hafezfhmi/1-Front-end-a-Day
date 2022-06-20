@@ -35,12 +35,11 @@
 
 ### Conclusion
 
-- It is quite simple to implement a socket.io connection.
-- Many awesome tools/apps can be built with a socket.io connection.
+- We also can make a "room" that can be used for group chat or private chat
 
 #### Time taken
 
-1+ hours
+20+ minutes
 
 ### Useful resources
 
